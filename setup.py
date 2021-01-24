@@ -35,7 +35,7 @@ setup(
     },
     entry_points={
         "console_scripts": [
-            "color = colorpedia.cli:entry_point",
+            "colorpedia = colorpedia.cli:entry_point",
         ],
     },
     classifiers=[
